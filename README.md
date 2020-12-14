@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap e UI Design.</strong>
+  🤹 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap e UI Design.</strong>
 </p>
 
 <p align="left">
