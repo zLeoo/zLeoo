@@ -4,7 +4,7 @@
   Ola meu nome é Leonardo, sou desenvolvedor <strong>Front-end</strong> e <strong>UI Designer</strong>.
 </p>
 
-<div style="background: red;">a</div>
+<div background="red">a</div>
 
 <p align="left">
   🤹 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap e UI Design.</strong>
