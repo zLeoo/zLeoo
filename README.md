@@ -3,9 +3,7 @@
 <p align="left"> 
   Ola meu nome é Leonardo, sou desenvolvedor <strong>Front-end</strong> e <strong>UI Designer</strong>.
 </p>
-
-<div background="red">a</div>
-
+------------------------------------------------------------------------------------------------------
 <p align="left">
   🤹 Habilidades: <strong>HTML5, CSS3, JavaScript, Sass, Bootstrap e UI Design.</strong>
 </p>
